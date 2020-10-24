@@ -1,0 +1,11 @@
+[user]
+	email = schuen@gmx.de
+	name = Sven Schroeder
+[filesystem "Oracle Corporation|1.8.0_211|/dev/nvme0n1p3"]
+	timestampResolution = 1018 milliseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|1.8.0_232|/dev/nvme0n1p3"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 15634 microseconds
+[pull]
+	ff = only
